@@ -4,7 +4,7 @@ public class MyLinkedListTest {
         linkedList.addFirst("f");
         linkedList.addFirst("e");
         linkedList.addFirst("d");
-        linkedList.addFirst("c");
+        linkedList.addFirst("c"); .
         linkedList.addFirst("b");
         linkedList.addFirst("a");
         System.out.println("===========trước khi thêm==================");
